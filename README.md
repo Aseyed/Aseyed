@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Mostafa Hosseini</h1>
-<h3 align="center">A passionate computer engineer student</h3>
+<h3 align="center">A software engineer and computer student</h3>
+
+
+📫 contact me: **aseyedmostafaho@gmail.com**
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aseyed&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseyed&theme=algolia&layout=compact&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aseyed&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseyed&theme=vue-dark&layout=compact&hide_border=true">
 </p>
 
 <!-- 
@@ -34,17 +37,17 @@ Here are some ideas to get you started:
  -->
 
 
-📫 How to reach me: **aseyedmostafaho@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
 
-![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=ffffff)
-![Scala](https://img.shields.io/badge/-Scala-FF4500?style=for-the-badge&logo=scala&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Go](https://img.shields.io/badge/-Go-29beb0?style=for-the-badge&logo=go&logoColor=ffffff)
+![Scala](https://img.shields.io/badge/-Scala-DE3423?style=for-the-badge&logo=scala&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=ffffff)
 <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000)
+![Django](https://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=Django&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 </br>
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Docker](http://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=ffffff)
 <br/>
 
