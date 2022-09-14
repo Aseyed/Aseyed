@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aseyed&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseyed&theme=vue-dark&layout=compact&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aseyed&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseyed&theme=vue-dark&layout=compact&hide_border=true">
 </p>
 
 <!-- 
